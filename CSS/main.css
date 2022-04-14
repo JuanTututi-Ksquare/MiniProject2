@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.app {
+    min-height: 100vh;
+}
+
+.advice-container {
+    padding: 50px 100px;
+    border: 1px solid black;
+}
